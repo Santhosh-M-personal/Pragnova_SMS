@@ -66,9 +66,6 @@ pip install -r requirements.txt
    - Create a PostgreSQL database for transactional data.  
    - Update the database connection details in the `.env` file (e.g., database name, username, password).  
 
-2. **MongoDB**:  
-   - Set up a MongoDB database for mentor and feedback data.  
-   - Update the connection string in the `.env` file.  
 
 ### 5. Initialize the Database Schema  
 
